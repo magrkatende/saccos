@@ -30,10 +30,10 @@ if(isset($_POST['submit'])){
 ?>
 
 <form method="post" action="">
-<input name="name" type="text" placeholder="name" required/>
-<input name="email" type="email" placeholder="email" required/>
-<input name="phone" type="tel" placeholder="phone" required/>
-<input name="password" type="password" placeholder="password" required/>
-<input name="user_type" type="hidden" value="subscriber" />
+<input name="name" type="text" placeholder="name" required/><br>
+<input name="email" type="email" placeholder="email" required/><br>
+<input name="phone" type="tel" placeholder="phone" required/><br>
+<input name="password" type="password" placeholder="password" required/><br>
+<input name="user_type" type="hidden" value="subscriber" /><br>
 <input name="submit" type="submit" value="sign up"/>
 </form>

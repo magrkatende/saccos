@@ -42,7 +42,7 @@
         <!-- Collect the nav links, forms, and other content for toggling -->
                     <div class="collapse navbar-collapse" id="navbar-collapse-1">
                      <ul class="nav navbar-nav navbar-right">
-                        <li><a href="home.php">Home</a></li>
+                        <li><a href="index.php">Home</a></li>
                         <li><a href="aboutus.php">About</a></li>
                         <li><a href="contact.php">Contact</a></li>
                         <li><a href="share.php">Share</a></li>
@@ -57,39 +57,29 @@
 		
 		
 		
-		<!-- for carousel or image  "Carousel with outside indicators from w3school" by  magreth -->		
-				<h2>Automatic Slideshow</h2>
-				<p>Change image every 2 seconds:</p>
+		<!-- for  contact form   from w3school by  magreth -->		
+		
+		
+		
+		
+		
+				<div class="container-fluid">
+			  <h1>contact us:</h1>      
+			  <p>This part is inside a .container-fluid class.</p> 
+             <p >
+			 
+			Office Location<br>
 
-		<div class="slideshow-container">
+			Dew CIS Solutions LTD<br>
+			Barclays Plaza, 12th Floor. Loita Street.<br>
+			P.O Box 45689<br>
+			Nairobi,   00100<br>
+			+254 (20) 2243097 / 2227100, +254(726)209214, +254(738)819505<br.
+			info@dewcis.com<br>
+			</p>           
+        </div>
 
-					<div class="mySlides fade">
-							  <div class="numbertext">1 / 3</div>
-							  <img src="/image/money.jpg" style="width:100%">
-							  <div class="text">Caption Text</div>
-					</div>
-
-					<div class="mySlides fade">
-							  <div class="numbertext">2 / 3</div>
-							  <img src="/image/invest.jpg" style="width:100%">
-							  <div class="text">Caption Two</div>
-					</div>
-
-					<div class="mySlides fade">
-							   <div class="numbertext">3 / 3</div>
-							   <img src="/image/loan.jpg" style="width:100%">
-							   <div class="text">Caption Three</div>
-					</div>
-
-		</div>
-					<br>
-
-					<div style="text-align:center">
-							  <span class="dot"></span> 
-							  <span class="dot"></span> 
-							  <span class="dot"></span> 
-					</div>
-
-    
+		
+		
+				
     </body>
-</html>

@@ -55,40 +55,22 @@
             </nav>         	 <!-- /.navbar -->
         </div>
 		
-		
-		
-		<!-- for carousel or image  "Carousel with outside indicators from w3school" by  magreth -->		
-				<h2>Automatic Slideshow</h2>
-				<p>Change image every 2 seconds:</p>
-
-		<div class="slideshow-container">
-
-					<div class="mySlides fade">
-							  <div class="numbertext">1 / 3</div>
-							  <img src="/image/money.jpg" style="width:100%">
-							  <div class="text">Caption Text</div>
-					</div>
-
-					<div class="mySlides fade">
-							  <div class="numbertext">2 / 3</div>
-							  <img src="/image/invest.jpg" style="width:100%">
-							  <div class="text">Caption Two</div>
-					</div>
-
-					<div class="mySlides fade">
-							   <div class="numbertext">3 / 3</div>
-							   <img src="/image/loan.jpg" style="width:100%">
-							   <div class="text">Caption Three</div>
-					</div>
-
-		</div>
-					<br>
-
-					<div style="text-align:center">
-							  <span class="dot"></span> 
-							  <span class="dot"></span> 
-							  <span class="dot"></span> 
-					</div>
+					
+					
+		<!-- for aboutus informatio from w3school -->			
+					
+		<div class="container-fluid">
+			  <h1>ABOUT Saccos online system</h1>      
+			  <p>This is the best in micro finance institutionquired to manage need of saving ,share , and loan management<br>
+			  .and this management is web based with tools that r</p> 
+             <p>The .container-fluid class provides a full width container, spanning the entire width of the viewport.</p> <br><br>
+<h1>BENEFIT OF SACCOS ONLINE SYSTEM</h1>
+<p>To provide upodated informmation concerning loan,shares and <br>opportunity present.Saccos management
+ <br>can monitor available loan n share present and ..............Member can get<br>
+ quick information concernig their account,saving,share,profit and loan balance.<br>
+Also easy in trackin member information;repayments,deposts and withdraw can be easily tracked.
+</p>			 
+        </div>
 
     
     </body>

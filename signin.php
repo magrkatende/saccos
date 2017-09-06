@@ -42,7 +42,7 @@
         <!-- Collect the nav links, forms, and other content for toggling -->
                     <div class="collapse navbar-collapse" id="navbar-collapse-1">
                      <ul class="nav navbar-nav navbar-right">
-                        <li><a href="home.php">Home</a></li>
+                        <li><a href="index.php">Home</a></li>
                         <li><a href="aboutus.php">About</a></li>
                         <li><a href="contact.php">Contact</a></li>
                         <li><a href="share.php">Share</a></li>
@@ -57,39 +57,31 @@
 		
 		
 		
-		<!-- for carousel or image  "Carousel with outside indicators from w3school" by  magreth -->		
-				<h2>Automatic Slideshow</h2>
-				<p>Change image every 2 seconds:</p>
+		<!-- for  signin or login form  from w3school" by  magreth -->	
+		
+			<form action="/action_page.php">
+			<h2>Login </h2>	
+			
+					<div class="imgcontainer">
+							<img src="image/img_avatar2.png" alt="Avatar" class="avatar">
+					</div>	
 
-		<div class="slideshow-container">
+					<div class="container">
+							<label><b>Username</b></label>
+									<input type="text" placeholder="Enter Username" name="uname" required>
 
-					<div class="mySlides fade">
-							  <div class="numbertext">1 / 3</div>
-							  <img src="/image/money.jpg" style="width:100%">
-							  <div class="text">Caption Text</div>
+							<label><b>Password</b></label>
+									<input type="password" placeholder="Enter Password" name="psw" required>
+
+									<button type="submit">Login</button>
+									<input type="checkbox" checked="checked"> Remember me
 					</div>
 
-					<div class="mySlides fade">
-							  <div class="numbertext">2 / 3</div>
-							  <img src="/image/invest.jpg" style="width:100%">
-							  <div class="text">Caption Two</div>
+					<div class="container" style="background-color:#f1f1f1">
+									<button type="button" class="cancelbtn">Cancel</button>
+									<span class="psw">Forgot <a href="#">password?</a></span>
 					</div>
+			</form> 
 
-					<div class="mySlides fade">
-							   <div class="numbertext">3 / 3</div>
-							   <img src="/image/loan.jpg" style="width:100%">
-							   <div class="text">Caption Three</div>
-					</div>
-
-		</div>
-					<br>
-
-					<div style="text-align:center">
-							  <span class="dot"></span> 
-							  <span class="dot"></span> 
-							  <span class="dot"></span> 
-					</div>
-
-    
+				
     </body>
-</html>

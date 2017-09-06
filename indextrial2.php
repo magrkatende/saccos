@@ -13,7 +13,7 @@
 				
 			  <!-- Bootstrap core CSS -->
 			  <link href="css/bootstrap.css" rel="stylesheet">
-			  <link href="css/style.css" rel="stylesheet">
+			  <link href="css/styletrial2.css" rel="stylesheet
 		
 			  <!-- Bootstrap core JS -->
 			  <script src="js/bootstrap.js"></script>
